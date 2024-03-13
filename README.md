@@ -1,6 +1,6 @@
 ### VBA-CHALLENGE-Stock-tickers-
 
-# VBA STOCK MARKET THREE YEARS ANALYSIS
+#VBA STOCK MARKET THREE YEARS ANALYSIS
 multiple_year_stock_data is the Raw File
 multiple_year_stock_data1 is the Excele enable Macros File with VBA Code in it.
 alphabetical_testing excel dataset used to initially develop the code due to its light file size.
@@ -9,33 +9,33 @@ stockchangefinal.bas is the actual VB code.
 <p align = "left">
 <C:\Users\avina\Desktop\uoft_assignment\VBA challenge\Starter_Code\Images>
 </p>
+
 source: Uoft Bootcamp
 
-# Here is the outline of the requirement :-
+Here is the outline of the requirement :-
 ## Instructions
 
 <table><tr><td> Create a script that loops through all the stocks for one year and outputs the following information:<table><tr><td>
 
-# The ticker symbol
+The ticker symbol
 
-# Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
+Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-# The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-# The total stock volume of the stock. The result should match the following image:
+The total stock volume of the stock. The result should match the following image:
 
-** Solution for All the requirements: **
+** Solution for All the requirements **
 
-# The Script stockchangefinal ("C:\Users\avina\Desktop\uoft_assignment\VBA challenge\Starter_Code\Resources\stockchangefinal.bas") 
-# loop trough first Column range and find unique tickers and their respective Total Stock volume, yearly change, percent change.
-# and yearly change formatted for Positive Yearly change with "Green" and Negative change with "Red".
-### And further find below by looping :
+The Script stockchangefinal.bas -loop trough first Column range and find unique tickers and their respective Total Stock volume, yearly change, percent change. and yearly change formatted for Positive Yearly change with "Green" and Negative change with "Red".
 
-# Greatest % Increase
-# Greatest % Decrease
-# Greatest Total Volume
+And further find below by looping :
 
-# Column position of Output data:
+Greatest % Increase
+Greatest % Decrease
+Greatest Total Volume
+
+Column position of Output data:
 
 Unique Ticker -         Column I
 Yearly Change -         Column J
@@ -47,8 +47,4 @@ Greatest % Increaase / Decrease / Total Volume  -           Column Q
 
 ** SOLUTION LOOK LIKE THIS**
 
-
-![alt text](<2018 screenshot-1.jpg>)
-![alt text](<2019 screenshot-1.png>) ![alt text](<2018 screenshot-2.jpg>) ![alt text](<2018 screenshot-1-1.jpg>)
-![alt text](<2020 screenshot-1.png>)
 
