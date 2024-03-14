@@ -25,6 +25,9 @@ The percentage change from the opening price at the beginning of a given year to
 
 The total stock volume of the stock. The result should match the following image:
 
+
+
+
 ** Solution for All the requirements **
 
 The Script stockchangefinal.bas -loop trough first Column range and find unique tickers and their respective Total Stock volume, yearly change, percent change. and yearly change formatted for Positive Yearly change with "Green" and Negative change with "Red".
